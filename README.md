@@ -1,1 +1,1 @@
-# openwrt-adguardhome
+# adguardhome
